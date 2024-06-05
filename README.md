@@ -36,7 +36,7 @@ After cleaning, the dataset is reliable, consistent, and ready for detailed anal
 ## How to Use
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/layoffs-data-cleaning.git
+   git clone Portfolio Project - Data Cleaning_Optimized_by_Zohaib.sql
    ```
 2. **Navigate to the Directory**:
    ```bash
